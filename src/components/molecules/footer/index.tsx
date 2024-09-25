@@ -78,7 +78,7 @@ function Footer() {
             width={133}
           />
           <span className='leading-6 text-white'>  
-            All Rights Reserved Nidejia BuildWithAngga 2024
+            All Rights Reserved Nidejia 2024
           </span>
         </div>
       </div>
